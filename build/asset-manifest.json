@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9ed7c7a.css",
+    "main.js": "/static/js/main.62b85e68.js",
+    "static/js/453.a534ba54.chunk.js": "/static/js/453.a534ba54.chunk.js",
+    "static/media/smart.png": "/static/media/smart.3cb44e0458c66529f8ad.png",
+    "static/media/portfolio.png": "/static/media/portfolio.11e6be478eab18493b53.png",
+    "static/media/company1.png": "/static/media/company1.f6ef5a49aa9af8605980.png",
+    "static/media/company4.png": "/static/media/company4.0be18be3d0f98d432187.png",
+    "static/media/jass.png": "/static/media/jass.655780a4cea9314c3617.png",
+    "static/media/company3.png": "/static/media/company3.402eac1b5b9eb9e7c345.png",
+    "static/media/company2.png": "/static/media/company2.9fcdcb089256dff9e226.png",
+    "static/media/iphone.png": "/static/media/iphone.8b9ae2d74cdce9e945c5.png",
+    "static/media/google.png": "/static/media/google.03acf286b53ee3d35502.png",
+    "static/media/caliber.png": "/static/media/caliber.be501b02792999428839.png",
+    "static/media/airmagic.png": "/static/media/airmagic.b356fef54c9905d8849a.png",
+    "static/media/insta.png": "/static/media/insta.56a95ee49b7e61c31070.png",
+    "static/media/logos.png": "/static/media/logos.ebb0bb1ac1c52048c36f.png",
+    "static/media/visionpro.png": "/static/media/visionpro.72806f212730201e2521.png",
+    "static/media/caliberlogo.png": "/static/media/caliberlogo.e7251ac77f6164debf71.png",
+    "index.html": "/index.html",
+    "main.e9ed7c7a.css.map": "/static/css/main.e9ed7c7a.css.map",
+    "main.62b85e68.js.map": "/static/js/main.62b85e68.js.map",
+    "453.a534ba54.chunk.js.map": "/static/js/453.a534ba54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9ed7c7a.css",
+    "static/js/main.62b85e68.js"
+  ]
+}
